@@ -12,4 +12,4 @@ I will combine a list of Philadelphia neighborshoods that can be scraped from th
 
 I will leverage data using Foursquare API's geolocation function to gain knowledge on what influences tourists to visiting Philadelphia.
 
-https://geniuslifedesign.github.io/Projects.github.io/website/
+[linl](https://geniuslifedesign.github.io/Projects.github.io/website/)
