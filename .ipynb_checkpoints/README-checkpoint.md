@@ -1,6 +1,6 @@
 ## Introduction
 
-For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services that they offer to travelers. The goal of this project to optimize sightseeing packages for The City of Phildelphia.
+For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services that they are selling to travelers. The goal of this project to optimize sightseeing packages for the City of Phildelphia.
 
 ## Business Problem
 
