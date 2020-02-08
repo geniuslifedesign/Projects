@@ -1,6 +1,3 @@
-layout: page
-title: "Tourism"
-permalink: /Tourism/
 
 ## Introduction
 
