@@ -1,6 +1,6 @@
 ## Introduction
 
-For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services that they sell to travelers. The goal this project to optimize sightseeing packages for The City of Phildelphia.
+For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services that they offer to travelers. The goal of this project to optimize sightseeing packages for The City of Phildelphia.
 
 ## Business Problem
 
@@ -8,6 +8,6 @@ Providers of hospitality and travel services should dig deep into structured and
 
 ## Data
 
-I will combine a list of Philadelphia neighborshood that can be scraped from this [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_Philadelphia_neighborhoods) and download a list Zip Codes and Geographia Coordinates from [OSD](https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?refine.state=PA&q=philadelphia) to develop dataset.
+I will combine a list of Philadelphia neighborshood that can be scraped from this [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_Philadelphia_neighborhoods) together with a list Zip Codes and Geographia Coordinates downloaed from [OSD](https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?refine.state=PA&q=philadelphia) to develop dataset.
 
 I will leverage data using Foursquare API's geolocation function to gain knowledge on what influences tourists to Philadelphia.
