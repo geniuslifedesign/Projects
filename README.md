@@ -1,10 +1,10 @@
 ## Introduction
 
-For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services that they are selling to travelers. The goal of this project to optimize sightseeing packages for the City of Phildelphia.
+For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services sold to travelers. The goal of this project to optimize sightseeing packages for the City of Phildelphia.
 
 ## Business Problem
 
-Providers of hospitality and travel services should dig deep into structured and unstructured big data sources in order to enhance experiences they are offering to tourists. A place which has better records of their tourist data provides better services. Hidden in big data are useful insights that can be extracted. Clustering this data gives a better understanding of tourist’s habits, preferences, behavior patterns, and needs. And, by exploiting geolocation data you have the ability to create more engaging tourists routes by analyzing traffic flow. 
+Providers of hospitality and travel services should dig deep into structured and unstructured big data sources in order to enhance experiences offered to tourists. A place which has better records of their tourist data provides better services. Hidden in big data are useful insights that can be extracted. Clustering this data gives a better understanding of tourist’s habits, preferences, behavior patterns, and needs. And, by exploiting geolocation data you have the ability to create more engaging tourists routes by analyzing traffic flow. 
 
 ## Data
 
