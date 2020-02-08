@@ -2,10 +2,6 @@ layout: page
 title: "Tourism"
 permalink: /Tourism/
 
-layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
-
 ## Introduction
 
 For this Capstone project, I am creating a hypothetical scenario for a Philadelphia tourism company that would like to improve tourist products and services sold to travelers. The goal of this project to optimize sightseeing packages for the City of Phildelphia.
