@@ -1,6 +1,9 @@
-## Introduction
-
-For this Capstone project, I am creating a hypothetical scenario in which a Philadelphia tourism company would like to improve tourist products and services sold to travelers. The goal of this project is to optimize sightseeing packages for the City of Phildelphia.
+<h1 align="center"> My Data Science Portfolio </h1> <br>
+<p align="center">
+  <a href="https://github.com/geniuslifedesign/Projects.github.io">
+    <img alt="DataScience" title="DataScience" src="https://cdn-images-1.medium.com/max/1600/1*u16a0WbJeckSdi6kGD3gVA.jpeg" width="600" height="300">
+  </a>
+</p>
 
 ## Business Problem
 
