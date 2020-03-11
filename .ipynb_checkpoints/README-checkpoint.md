@@ -11,7 +11,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 
-- [Machine Learning](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/)
+- [Machine Learning](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning)
   - [K-Means Clustering](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
   - [The Best Classifiers](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/The-Best-Classifiers.ipynb)
 
