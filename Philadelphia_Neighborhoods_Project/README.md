@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://geniuslifedesign.github.io/Projects.github.io/">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/Philly-Skyline.jpg" width="600" height="300">
+  </a>
+</p>
+
 ## Introduction
 
-For this Capstone project, I am creating a hypothetical scenario in which a Philadelphia tourism company would like to improve tourist products and services sold to travelers. The goal of this project is to optimize sightseeing packages for the City of Phildelphia.
+Converting addresses into their equivalent latitude and longitude values, I used the Foursquare API to explore neighborhoods in Philadelphia. Also, Utilizing the **explore** function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. Used the *k*-means clustering algorithm to complete task. Then finally, I used the Folium library to visualize the neighborhoods in Philadelphia and their emerging clusters.
 
 ## Business Problem
 
