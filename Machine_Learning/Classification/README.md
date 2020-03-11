@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://geniuslifedesign.github.io/Projects.github.io/">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/classification.png" width="600" height="300">
+  </a>
+</p>
+
 ## Introduction
 Practicing classification algorithms that I recently learned in a Coursera course.
 
@@ -12,4 +18,4 @@ You should use the following algorithm:
 - Support Vector Machine
 - Logistic Regression
 
-[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/The_Best_Classifiers_Project)
+[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_learning/Classification)
