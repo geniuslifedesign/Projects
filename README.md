@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://geniuslifedesign.github.io/Projects.github.io">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/data-visualization.png" width="600" height="247">
+  </a>
+</p>
+
 ## Introduction
 In this repo, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
 
