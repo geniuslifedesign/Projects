@@ -18,4 +18,4 @@ You should use the following algorithm:
 - Support Vector Machine
 - Logistic Regression
 
-[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_learning/Classification)
+[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/Classification)
