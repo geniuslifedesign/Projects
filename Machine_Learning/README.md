@@ -1,4 +1,4 @@
-<h1 align="center"> Machine Learning </h1> <br><p align="center">
+<h1 align="center"> Machine Learning </h1> <br>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/machine-learning.png" width="337" height="300">
