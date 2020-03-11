@@ -12,7 +12,7 @@
 - [Introduction](#introduction)
 
 - [Machine Learning](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning)
-  - [K-Means Clustering](https://github.com/geniuslifedesign/Projects.github.io/blob/master/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
+  - [K-Means Clustering](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
   - [The Best Classifiers](https://github.com/geniuslifedesign/Projects.github.io/blob/master/Machine_Learning/The-Best-Classifiers.ipynb)
 
 - [Segmenting and Clustering Neighborhoods in Philadelphia](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Segmenting_and_Clustering_Neighborhoods_in_Philadelphia)
