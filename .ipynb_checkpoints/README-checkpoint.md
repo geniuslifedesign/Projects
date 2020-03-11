@@ -1,7 +1,3 @@
-layout: page
-title: "Machine Learning"
-permalink: /Machine_Learning/
-
 <h1 align="center"> My Data Science Portfolio </h1> <br>
 <p align="center">
   <a href="https://github.com/geniuslifedesign/Projects.github.io">
