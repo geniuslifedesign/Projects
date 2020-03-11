@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
-    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/k-means-clustering.png" width="600" height="300">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/k-means-segmentation.png" width="600" height="300">
   </a>
 </p>
 
