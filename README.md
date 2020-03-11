@@ -19,6 +19,8 @@ permalink: /Machine_Learning/
   - [K-Means Clustering](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
   - [The Best Classifiers](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/The-Best-Classifiers.ipynb)
 
+- [Segmenting and Clustering Neighborhoods in Philadelphia](https://geniuslifedesign.github.io/Projects.github.io/Segmenting_and_Clustering_Neighborhoods_in_Philadelphia.ipynb)
+
 ## Data
 
 I will combine a list of Philadelphia neighborhoods that can be scraped from this [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_Philadelphia_neighborhoods) together with a list of zip codes and geographic coordinates downloaded from [OSD](https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?refine.state=PA&q=philadelphia) to develop the dataset.
