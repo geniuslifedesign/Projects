@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/geniuslifedesign/Projects.github.io">
-    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/data-visualization.png" width="600" height="200">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/tree/master/Images/data-visualization.png" width="600" height="200">
   </a>
 </p>
 
@@ -8,11 +8,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ## Table of Contents
-- [Introduction](#introduction)
-
 - [Machine Learning](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning)
-  - [K-Means Clustering](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
+  - [Customer Segmentation](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/Customer_Segmentation/K-Means-Customer-Segmentation.ipynb)
+  - [Movie Recommendation Systems](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/Movie_Recommendation_Systems)
   
-- [The Best Classifiers](https://github.com/geniuslifedesign/Projects.github.io/tree/master/The_Best_Classifiers/The-Best-Classifiers.ipynb)
-
-- [Segmenting and Clustering Neighborhoods in Philadelphia](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Segmenting_and_Clustering_Neighborhoods_in_Philadelphia/Philadelphia-Neighborhoods.ipynb)
+- [Philadelphia Neighborhoods](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Philadelphia_Neighborhoods/Philadelphia-Neighborhoods.ipynb)
+  
+- [The Best Classifiers](https://github.com/geniuslifedesign/Projects.github.io/tree/master/The_Best_Classifiers/Loan-Project.ipynb)
