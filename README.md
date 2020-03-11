@@ -1,4 +1,3 @@
-<h1 align="center"> My Data Science Portfolio </h1> <br>
 <p align="center">
   <a href="https://github.com/geniuslifedesign/Projects.github.io">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/data-visualization.png" width="600" height="300">
