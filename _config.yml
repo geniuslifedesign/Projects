@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Genius Life Design
 description: Data Science Projects
-layout: single
+classes: wide
