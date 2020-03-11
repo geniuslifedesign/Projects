@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Data Science Portfolio
-logo: "https://github.com/geniuslifedesign/Projects.github.io/tree/master/image/data-visualization.png"
+logo: [https://github.com/geniuslifedesign/Projects.github.io/tree/master/image/data-visualization.png]
 description: In this repo, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
