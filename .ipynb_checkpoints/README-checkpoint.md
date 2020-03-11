@@ -1,7 +1,7 @@
 <h1 align="center"> My Data Science Portfolio </h1> <br>
 <p align="center">
   <a href="https://github.com/geniuslifedesign/Projects.github.io">
-    <img alt="DataScience" title="DataScience" src="https://github.com/geniuslifedesign/Projects.github.io/blob/master/data-visualization.png" width="600" height="300">
+    <img alt="DataScience" title="DataScience" src="https://github.com/geniuslifedesign/Projects.github.io/blob/master/Images/data-visualization.png" width="600" height="300">
   </a>
 </p>
 
