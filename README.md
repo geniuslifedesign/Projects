@@ -5,9 +5,15 @@
   </a>
 </p>
 
-## Business Problem
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-Providers of hospitality and travel services should dig deep into structured and unstructured big data sources in order to enhance experiences offered to tourists. A place that has better records of their tourist data provides better services. Hidden in big data are useful insights that can be extracted. Clustering this data gives a better understanding of tourist’s habits, preferences, behavior patterns and needs. By exploiting geolocation data you have the ability to create more engaging tourists routes by analyzing traffic flow. 
+## Table of Contents
+- [Introduction](#introduction)
+
+- [Machine Learning](https://github.com/KevinLiao159/MyDataSciencePortfolio/tree/master/churn_study)
+  - [K-Means Clustering](https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/churn_study/customer_churn_modeling.ipynb)
+  - [The Best Classifiers](https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/churn_study/customer_churn_modeling.ipynb)
 
 ## Data
 
