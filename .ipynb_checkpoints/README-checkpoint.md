@@ -11,9 +11,9 @@
 ## Table of Contents
 - [Introduction](#introduction)
 
-- [Machine Learning](https://github.com/KevinLiao159/MyDataSciencePortfolio/tree/master/churn_study)
-  - [K-Means Clustering](https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/churn_study/customer_churn_modeling.ipynb)
-  - [The Best Classifiers](https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/churn_study/customer_churn_modeling.ipynb)
+- [Machine Learning](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/)
+  - [K-Means Clustering](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/K-Means-Customer-Segmentation.ipynb)
+  - [The Best Classifiers](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/The-Best-Classifiers.ipynb)
 
 ## Data
 
