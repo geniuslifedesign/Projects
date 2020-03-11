@@ -1,10 +1,10 @@
+<h1 align="center"> Machine Learning </h1> <br><p align="center">
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/machine-learning.png" width="337" height="300">
   </a>
 </p>
 
-## Machine Learning
 - [Classification](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/Classification)
 - [Customer Segmentation](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/Customer_Segmentation)
 - [Movie Recommendation Systems](https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning/Movie_Recommendation_Systems)
