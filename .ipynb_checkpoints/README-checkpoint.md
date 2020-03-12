@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<h2>Data Science Projects</h2>
 Welcome to my portfolio of data science projects. In this repository, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
 
 <h2>Table of Contents</h2>
