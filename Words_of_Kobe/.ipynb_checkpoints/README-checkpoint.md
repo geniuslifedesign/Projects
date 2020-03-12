@@ -1,4 +1,4 @@
-<h2 align="center"> Remembering Kobe Bryant </h2> <br>
+<h3 align="center"> Remembering Kobe Bryant </h3> <br>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/kobe_cloud_final.png">
