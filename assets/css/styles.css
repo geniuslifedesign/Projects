@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500&display=swap');
-header h1 {
+header h1 a {
     font-family: 'Montserrat', sans-serif;
     font-size:14px;
     font-weight: 400;
