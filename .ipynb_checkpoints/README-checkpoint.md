@@ -1,3 +1,4 @@
+<h2> Data Science Projects </h2> <br>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/data-visualization.png">
