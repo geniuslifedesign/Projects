@@ -1,4 +1,4 @@
-<h3> Customer Segmentation</h3>
+<h3>Customer Segmentation</h3>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/k-means-segmentation.png">

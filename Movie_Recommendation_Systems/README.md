@@ -1,4 +1,4 @@
-<h2 align="center"> Movie Recommendation Systems </h2>
+<h3>Movie Recommendation Systems</h3>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/Movie_Recommendation_Systems">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/movie-recommendation.png">
