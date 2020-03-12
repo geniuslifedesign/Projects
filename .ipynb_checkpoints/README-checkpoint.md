@@ -6,7 +6,7 @@
 </p>
 
 ## Data Science Projects
-Welcime to my portfolio of data science projects. In this repository, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
+Welcome to my portfolio of data science projects. In this repository, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
 
 ## Table of Contents
 ## Machine Learning
