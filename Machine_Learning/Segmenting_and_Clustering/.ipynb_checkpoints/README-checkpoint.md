@@ -1,6 +1,7 @@
+<h2> Segmenting and Clustering Neighborhoods in Philadelphia </h2>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
-    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/Philly-Skyline.jpg" width="600" height="300">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/philly-skyline.jpg">
   </a>
 </p>
 
@@ -30,4 +31,4 @@ Another large group is the business managers like providers of hospitality and t
 
 Once you have the data, the entrepreneurial spirit should do the rest. Geolocation big data might give you information location, consumer preferences, traffic flow, locations and so on. The mining of unstructured data can give us not just quantitative but also qualitative information on what tourists experience on a particular destination, what they need, what they like or dislike. The rest is a lot of work to be done.
 
-[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/Segmenting_and_Clustering)
+[View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Segmenting_and_Clustering)

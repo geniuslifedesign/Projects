@@ -1,4 +1,3 @@
-<h2> Segmenting and Clustering Neighborhoods in Philadelphia </h2>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/philly-skyline.jpg">

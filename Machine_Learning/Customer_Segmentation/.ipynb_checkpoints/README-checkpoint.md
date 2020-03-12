@@ -21,7 +21,7 @@ In this notebook we practice k-means clustering with 2 examples:
 - k-means on a random generated dataset
 - Using k-means for customer segmentation
 
-<h1 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h1>
+<h2 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h2>
 Imagine that you have a customer dataset, and you need to apply customer segmentation on this historical data.
 Customer segmentation is the practice of partitioning a customer base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources. For example, one group might contain customers who are high-profit and low-risk, that is, more likely to purchase products, or subscribe for a service. A business task is to retaining those customers. Another group might include customers from non-profit organizations. And so on.
   
