@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1> Data Science Projects </h1> <br>
+## Data Science Projects
 In this repo, you can find practical solutions to real world business problems using statistical methods and machine learning models. Projects are completed utilizating jupyter notebooks.
 
 ## Table of Contents
