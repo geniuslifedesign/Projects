@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
-    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/classification.png" width="600" height="300">
+    <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/classification.png">
   </a>
 </p>
 
