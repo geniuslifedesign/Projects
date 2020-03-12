@@ -3,9 +3,11 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Montserrat:400,500|Sarala&display=swap');
-h1 {
-    font-family: 'Sarala', sans-serif;
-    font-size:14px;
+
+body {
+    background-color: #fff;
+    padding: 50px;
+    font: 14px/1.5 "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #727272;
     font-weight: 400;
-    
 }
