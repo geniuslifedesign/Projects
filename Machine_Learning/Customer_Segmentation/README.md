@@ -1,3 +1,4 @@
+<h2 align="center"> Customer Segmentation </h2> <br>
 <p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/assets/img/k-means-segmentation.png">
@@ -19,6 +20,10 @@ Some real-world applications of k-means:
 In this notebook we practice k-means clustering with 2 examples:
 - k-means on a random generated dataset
 - Using k-means for customer segmentation
+
+<h1 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h1>
+Imagine that you have a customer dataset, and you need to apply customer segmentation on this historical data.
+Customer segmentation is the practice of partitioning a customer base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources. For example, one group might contain customers who are high-profit and low-risk, that is, more likely to purchase products, or subscribe for a service. A business task is to retaining those customers. Another group might include customers from non-profit organizations. And so on.
   
 [View Code on GitHub](https://github.com/geniuslifedesign/Projects.github.io/tree/master/Machine_Learning/Customer_Segmentation)
  
