@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://geniuslifedesign.github.io/Projects.github.io/Machine_Learning">
     <img alt="DataScience" title="DataScience" src="https://geniuslifedesign.github.io/Projects.github.io/images/machine-learning.png" width="250" height="223">
   </a>
